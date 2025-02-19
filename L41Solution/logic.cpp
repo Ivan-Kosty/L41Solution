@@ -30,3 +30,7 @@ string is_exist_zero_element(int* matrix, int n, int m) {
 		}
 	}
 }
+
+bool find_acending_order(int* matrix, int n, int m){
+
+}
