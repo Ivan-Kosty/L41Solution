@@ -1,8 +1,7 @@
 #include <iostream>
 #include "logic.h"
 
-int N;
-#define N 5;
+
 int rndm_matrix(int* matrix, int n, int m) 
 {
 	int matrix[N][N];
